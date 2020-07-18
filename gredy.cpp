@@ -20,8 +20,8 @@
 //#define _RANDOM_ //random örnek
 //#define _12_ //12 istasyonlu örnek
 //#define _25_ //25 istasyonlu örnek
-#define _30_ //50 istasyonlu örnek
-//#define _50_ //50 istasyonlu örnek
+//#define _30_ //50 istasyonlu örnek
+#define _50_ //50 istasyonlu örnek
 
 
 #ifdef _RANDOM_
